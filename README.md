@@ -19,10 +19,10 @@ Desarrollador Full Stack Junior con enfoque en implementación de estándares y 
 
 ### Tecnologías
 
-Frontend: HTML, CSS, JavaScript, React
-Backend: Node.js, Express
-Bases de datos: MongoDB, PostgreSQL
-Herramientas: Git, Docker, VSCode
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Bases de datos: MongoDB, PostgreSQL
+- Herramientas: Git, Docker, VSCode
 
 ### Contacto
 
