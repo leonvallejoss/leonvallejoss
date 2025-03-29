@@ -1,6 +1,6 @@
 # León Vallejos
 
-## Desarrollador Full Stack
+## Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leonvallejos-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/leonvallejos)
 [![GitHub](https://img.shields.io/badge/GitHub-leonvallejoss-181717?style=flat&logo=github)](https://github.com/leonvallejoss)
@@ -8,7 +8,7 @@
 
 ### Sobre mí
 
-Desarrollador Full Stack Junior con enfoque en implementación de estándares y buenas prácticas de desarrollo. Estudiante de programación en la Universidad Tecnológica Nacional (UTN).
+Full Stack Developer con enfoque en implementación de estándares y buenas prácticas de desarrollo. Estudiante de programación en la Universidad Tecnológica Nacional (UTN).
 
 ### Proyectos
 
