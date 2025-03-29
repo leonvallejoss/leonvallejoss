@@ -8,7 +8,7 @@
 
 ### Sobre mí
 
-Desarrollador Full Stack Junior con enfoque en implementación de estándares y buenas prácticas de desarrollo. Especializado en la aplicación de guías de estilo de Google para garantizar código limpio, mantenible y eficiente.
+Desarrollador Full Stack Junior con enfoque en implementación de estándares y buenas prácticas de desarrollo. Estudiante de programación en la Universidad Tecnológica Nacional (UTN).
 
 ### Proyectos
 
@@ -19,10 +19,10 @@ Desarrollador Full Stack Junior con enfoque en implementación de estándares y 
 
 ### Tecnologías
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express
-- Bases de datos: MongoDB, PostgreSQL
-- Herramientas: Git, Docker, VSCode
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Express
+Bases de datos: MongoDB, PostgreSQL
+Herramientas: Git, Docker, VSCode
 
 ### Contacto
 
