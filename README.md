@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm León Vallejos
 
-<!--
-**leonvallejoss/leonvallejoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on **React** and **JavaScript**, currently building projects and strengthening my fundamentals to work professionally in software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+
+- 💻 Frontend Developer (React, JavaScript)
+- 🚀 Learning by building real projects
+- 🎯 Goal: Get my first job as a developer
+- 🌎 Based in Argentina (open to remote work)
+- 📚 Constantly improving my skills and workflow
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+
+**Tools & Workflow**
+- Git & GitHub
+- VS Code
+- Linux (Ubuntu)
+- pnpm / npm
+
+---
+
+## 📂 Projects
+
+Here you’ll find projects focused on:
+- React fundamentals
+- Component-based architecture
+- State management
+- Clean and readable code
+
+> More projects coming soon 🚧
+
+---
+
+## 📈 What I'm currently learning
+
+- Advanced JavaScript
+- React best practices
+- Git workf
